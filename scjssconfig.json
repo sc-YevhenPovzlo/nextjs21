@@ -1,7 +1,7 @@
 {
   "sitecore": {
     "instancePath": "C:\\inetpub\\wwwroot\\sc1030xp1\\sc1030xp1CD.local",
-    "apiKey": "{CAB9ABF2-B2C5-4958-8C31-50AF3C490933}",
+    "apiKey": "{0FE569FF-0FB0-4E4A-AF92-EE5326248EE2}",
     "deploySecret": "y5sjb6zp7ncene74dmx9jrxatcmufsucrawduim78066",
     "deployUrl": "https://sc1030xp1cm.local/sitecore/api/jss/import",
     "layoutServiceHost": "https://d5a7-194-110-2-69.ngrok.io"
