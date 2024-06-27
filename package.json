@@ -4,7 +4,7 @@
   "version": "21.0.8",
   "private": true,
   "config": {
-    "appName": "qdbapp",
+    "appName": "sitecore-jss-app",
     "rootPlaceholders": [
       "jss-main"
     ],
